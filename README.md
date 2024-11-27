@@ -24,4 +24,4 @@ Soy un estudiante de ingeneria civil informatica y  desarrollador junior.
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub de Tu Nombre](https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Estadísticas de GitHub de Seba](https://github-readme-stats.vercel.app/api?username=sebacruz1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)

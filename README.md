@@ -1,78 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Gerardo Catalas" />
-    <meta name="copyright" content="https://www.catalasjuin.com" />
-	<meta name="description" content="The world's greatest website.">
-	<meta name="keywords" content="simpsons, homero, mr x, homer's web page, señor x, sitio web de homero">
-    <meta property="og:url" content="https://www.catalasjuin.com/homerswebpage" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Homer's Web Page | The world's greatest website" />
-    <meta property="og:description" content="The world's greatest website." />
-    <meta property="og:image" content="/src/imagenes/homero.jpg" />
-    <link rel="stylesheet" href="/src/estilos.css" media="screen">
-</head>
-<body>
-    <title>Homer's Web Page | The world's greatest website</title>
-    <div class="grid-container">
-        <!-- Columna 1 -->
-        <div class="reloj1">
-            <img src="/src/imagenes/reloj.gif" alt="">
-        </div>
-        <div class="gusano1">
-            <img src="/src/imagenes/gusano.gif" alt="">
-        </div>
-        <div class="tostadora2">
-            <img src="/src/imagenes/tostadora.gif" alt="">
-        </div>
-        <div class="campana1">
-            <img src="/src/imagenes/campana.gif" alt="">
-        </div>
-        <div class="gusano2">
-            <img src="/src/imagenes/gusano.gif" width="90px"  alt="">
-        </div>
-        <div class="tostadora1">
-            <img src="/src/imagenes/tostadora.gif" width="80px" alt="">
-        </div>
-        <div class="boca1">
-            <img src="/src/imagenes/boca.gif" alt="">
-        </div>
-        <div class="reloj2">
-            <img src="/src/imagenes/reloj.gif" alt="">
-        </div>
-        <div class="gusano3">
-            <img src="/src/imagenes/gusano.gif" width="90px"  alt="">
-        </div>
-        <div class="jebus">
-            <img src="/src/imagenes/jebus.gif" alt="">
-        </div>
-        <!-- Columna 4 -->
-        <div class="gusano4">
-            <img src="/src/imagenes/gusano.gif" width="90px"  alt="">
-        </div>
-        <div class="campana2">
-            <img src="/src/imagenes/campana.gif" alt="">
-        </div>
-        <div class="tostadora4">
-            <img src="/src/imagenes/tostadora.gif" alt="">
-        </div>    
-        <!-- Columna 5 -->
-        <div class="tostadora3">
-            <img src="/src/imagenes/tostadora.gif" alt="">
-        </div>
-        <div class="boca2">
-            <img src="/src/imagenes/boca.gif" alt="">
-        </div>
-        <div class="reloj3">
-            <img src="/src/imagenes/reloj.gif" alt="">
-        </div>  
-        <!-- Créditos -->
-        <div class="link">
-            <a href="https://www.catalasjuin.com">www.catalasjuin.com</a>
-        </div>
-    </div>
-</body>
-</html>
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Seba and I like metal" src="images/personal_note.svg" />
+  <br />
+  <br />
+</div>
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+
+
+# ¡Hola, soy Seba! 👋
+
+Soy un estudiante de ingeneria civil informatica y  desarrollador junior.
+
+## 🛠️ Tecnologías y Herramientas
+
+- Lenguajes: Python, C, JavaScript, Java.
+- Herramientas: Git, VSCode, MySQL, Notion. 
+
+## 🔗 Encuéntrame en la web
+
+- [LinkedIn](www.linkedin.com/in/sebastián-cruz-711376245)
+- [Twitter](https://x.com/sebacruzzz)
+- [Portafolio (@TO-DO)]
+
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub de Tu Nombre](https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)

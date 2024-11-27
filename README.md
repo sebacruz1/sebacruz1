@@ -14,15 +14,9 @@
     <meta property="og:description" content="The world's greatest website." />
     <meta property="og:image" content="/src/imagenes/homero.jpg" />
     <link rel="stylesheet" href="/src/estilos.css" media="screen">
-    <title>Homer's Web Page | The world's greatest website</title>
 </head>
 <body>
-    <header>
-        <audio src="/src/audio.mp3" loop controls style="display: none;" id="audio"></audio>
-        <h1>Homer's Web Page</h1>
-        <span onclick="document.getElementById('audio').play()"><i class="material-icons">volume_up</i></span>
-        <span onclick="document.getElementById('audio').pause()" style="margin-left: 5px;"><i class="material-icons">volume_off</i></span>
-    </header>  
+    <title>Homer's Web Page | The world's greatest website</title>
     <div class="grid-container">
         <!-- Columna 1 -->
         <div class="reloj1">
@@ -40,8 +34,6 @@
         <div class="gusano2">
             <img src="/src/imagenes/gusano.gif" width="90px"  alt="">
         </div>
-
-        <!-- Columna 2 -->
         <div class="tostadora1">
             <img src="/src/imagenes/tostadora.gif" width="80px" alt="">
         </div>
@@ -54,15 +46,9 @@
         <div class="gusano3">
             <img src="/src/imagenes/gusano.gif" width="90px"  alt="">
         </div>
-
-        <!-- Columna 3 -->
         <div class="jebus">
             <img src="/src/imagenes/jebus.gif" alt="">
         </div>
-        <div class="contador">
-            
-        </div>
-
         <!-- Columna 4 -->
         <div class="gusano4">
             <img src="/src/imagenes/gusano.gif" width="90px"  alt="">
@@ -73,7 +59,6 @@
         <div class="tostadora4">
             <img src="/src/imagenes/tostadora.gif" alt="">
         </div>    
-
         <!-- Columna 5 -->
         <div class="tostadora3">
             <img src="/src/imagenes/tostadora.gif" alt="">
@@ -84,7 +69,6 @@
         <div class="reloj3">
             <img src="/src/imagenes/reloj.gif" alt="">
         </div>  
-        
         <!-- Créditos -->
         <div class="link">
             <a href="https://www.catalasjuin.com">www.catalasjuin.com</a>

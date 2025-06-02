@@ -15,7 +15,3 @@ Soy un estudiante de ingeneria civil informatica y  desarrollador junior.
 - Lenguajes: Python, C, JavaScript, Java.
 - Herramientas: Git, VSCode, MySQL
 
-------------------------------------------------------------
-- [LinkedIn](www.linkedin.com/in/sebastián-cruz-711376245)
-- [Portafolio (@TO-DO)]
-

@@ -21,7 +21,3 @@ Soy un estudiante de ingeneria civil informatica y  desarrollador junior.
 - [Twitter](https://x.com/sebacruzzz)
 - [Portafolio (@TO-DO)]
 
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub de Seba](https://github-readme-stats.vercel.app/api?username=sebacruz1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)

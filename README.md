@@ -38,7 +38,7 @@ Estudiante de Ingeniería Civil Informática & Desarrollador Junior con enfoque 
 ## Curiosidades
 
 - Me gusta aprender con proyectos propios y experimentar con nuevas herramientas.
-- Apasionado por el metal y punk latinoamericano.
+- Apasionado por el metal y punk.
 
 ---
 

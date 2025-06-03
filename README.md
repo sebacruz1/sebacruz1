@@ -30,7 +30,7 @@ Estudiante de Ingeniería Civil Informática & Desarrollador Junior con enfoque 
 ## ¿Cómo contactarme?
 
 - ✉️ [Correo](mailto:sebastiancruzpomar@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/sebacruz1)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sebacruz1)
 - 🌐 [Portafolio] 
 
 ---

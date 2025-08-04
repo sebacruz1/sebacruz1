@@ -21,7 +21,6 @@ Estudiante de Ingeniería Civil Informática & Desarrollador Junior con enfoque 
 
 ## Actualmente trabajando en
 
-- Mejorar mis dotfiles, entorno DevOps y automatización de flujos
 - Profundizar en Docker, CI/CD y arquitectura en la nube
 - Hacer proyectos prácticos que combinen bash, Python y cloud
 

@@ -9,16 +9,6 @@ Estudiante de Ingeniería Civil Informática & Desarrollador Junior con enfoque 
 
 ---
 
-## Tecnologías y Herramientas
-
-- **Lenguajes:** Python, C, JavaScript, Java 
-- **Frameworks:** Flask, React (básico), Bash scripting
-- **Bases de datos:** MySQL, SQLite
-- **Herramientas y flujo de trabajo:** Git, GitHub, VSCode
-- **Interés en:** DevOps, automatización, ciberseguridad. 
-
----
-
 ## Actualmente trabajando en
 
 - Profundizar en Docker, CI/CD y arquitectura en la nube

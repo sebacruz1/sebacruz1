@@ -12,7 +12,7 @@ Estudiante de Ingeniería Civil Informática & Desarrollador Junior con enfoque 
 ## Actualmente trabajando en
 
 - Profundizar en Docker, CI/CD y arquitectura en la nube
-- Hacer proyectos prácticos que combinen bash, Python y cloud
+- Proyecto CRUD de manejo de personal
 
 ---
 

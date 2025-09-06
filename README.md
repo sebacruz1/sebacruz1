@@ -20,7 +20,7 @@ Me apasiona aprender haciendo, construir herramientas útiles y optimizar proces
 ## 📫 ¿Cómo contactarme?
 - ✉️ [Correo](mailto:sebastiancruzpomar@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebacruz1)  
-- 🌐 [Portafolio](https://portafolio-react-bice.vercel.app)  
+- 🌐 [Portafolio](https://portafolio-react-vdkv.vercel.app/)  
 
 ---
 

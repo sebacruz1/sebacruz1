@@ -14,7 +14,7 @@ Me apasiona aprender haciendo, construir herramientas útiles y optimizar proces
 ## Actualmente trabajando en
 - Profundizar en **Docker**, **CI/CD** y **arquitectura en la nube**  
 - Proyecto CRUD de **gestión de personal**
-- Página web **CasaCruz** Vite/React
+- Página web **CasaCruz** Next.JS
 
 ---
 

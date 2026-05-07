@@ -11,24 +11,8 @@ Me apasiona aprender haciendo, construir herramientas útiles y optimizar proces
 
 ---
 
-## Actualmente trabajando en
-- Profundizar en **Docker**, **CI/CD** y **arquitectura en la nube**  
-- Proyecto CRUD de **gestión de personal**
-
----
-
 ## ¿Cómo contactarme?
 - ✉️ [Correo](mailto:sebastiancruzpomar@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sebacruz1)  
 - 🌐 [Portafolio](https://www.seba-cruz.com)  
 
----
-
-## Curiosidades
-- Me gusta aprender con proyectos propios y experimentar con nuevas herramientas.  
-- Apasionado por el **metal y el punk**  
-- Disfruto colaborar y compartir ideas con otros desarrolladores.  
-
----
-
-_Gracias por visitar mi perfil. ¡Siempre estoy abierto a nuevas ideas y colaboraciones!_  

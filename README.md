@@ -12,7 +12,7 @@ Me apasiona aprender haciendo, construir herramientas útiles y optimizar proces
 ---
 
 ## ¿Cómo contactarme?
-- ✉️ [Correo](mailto:sebastiancruzpomar@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sebacruz1)  
-- 🌐 [Portafolio](https://www.seba-cruz.com)  
+- [Correo](mailto:sebastiancruzpomar@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/sebacruz1)  
+- [Portafolio](https://www.seba-cruz.com)  
 
